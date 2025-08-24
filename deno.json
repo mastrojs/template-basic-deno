@@ -4,6 +4,6 @@
     "generate": "deno eval \"import 'mastro/generate';\""
   },
   "imports": {
-    "mastro": "jsr:@mastrojs/mastro@0.0.9"
+    "mastro": "jsr:@mastrojs/mastro@0.1.3"
   }
 }
