@@ -10,7 +10,7 @@ This is a basic TypeScript template for [Mastro](https://mastrojs.github.io) whe
 
 ## Learn more
 
-To see how the Mastro web framework works, [follow the guide](https://mastrojs.github.io/guide/multiple-pages-with-shared-components/).
+To see how the Mastro web framework works, [follow the guide](https://mastrojs.github.io/guide/server-side-components-and-routing/).
 
 
 ## Deploy to production
