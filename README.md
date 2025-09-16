@@ -7,6 +7,8 @@ This is a basic TypeScript template for [Mastro](https://mastrojs.github.io) whe
 
     deno task start
 
+Or see [install instructions](https://mastrojs.github.io/guide/cli-install/#setup-local-development-server).
+
 
 ## Next steps
 
@@ -15,4 +17,5 @@ To see how the Mastro web framework works, [follow the guide](https://mastrojs.g
 
 ## Deploy to production
 
-To deploy your website, see [Different ways to run Mastro](https://mastrojs.github.io/guide/setup-mastro-cli-or-server/#different-ways-to-run-mastro).
+- [Deploy static site via CI/CD](https://mastrojs.github.io/guide/cli-deploy-production/#deploy-static-site-with-ci%2Fcd)
+- [Deploy server](https://mastrojs.github.io/guide/cli-deploy-production/#deploy-server-to-production)
