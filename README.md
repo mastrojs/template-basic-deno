@@ -9,6 +9,9 @@ This is a basic TypeScript template for [Mastro](https://mastrojs.github.io) whe
 
 Or see [install instructions](https://mastrojs.github.io/guide/cli-install/#setup-local-development-server).
 
+To make sure you're on the latest Mastro version:
+
+    deno update mastro --latest
 
 ## Next steps
 
