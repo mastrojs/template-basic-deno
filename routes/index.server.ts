@@ -1,4 +1,4 @@
-import { html, htmlToResponse } from "mastro";
+import { html, htmlToResponse } from "@mastrojs/mastro";
 import { Layout } from "../components/Layout.ts";
 
 export const GET = (_req: Request) =>
@@ -6,7 +6,7 @@ export const GET = (_req: Request) =>
     Layout({
       title: "Hello World",
       children: html`
-        <p>Hello World</p>
+        <p>Welcome!</p>
       `,
     }),
   );

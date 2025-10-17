@@ -1,4 +1,4 @@
-import { type Html, html } from "mastro";
+import { type Html, html } from "@mastrojs/mastro";
 
 interface Props {
   children: Html;
@@ -12,7 +12,7 @@ export const Layout = (props: Props) =>
       <head>
         <meta charset="UTF-8">
         <title>${props.title}</title>
-        <link rel="stylesheet" href="styles.css">
+        <link rel="stylesheet" href="/styles.css">
       </head>
       <body>
         <h1>${props.title}</h1>

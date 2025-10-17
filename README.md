@@ -11,7 +11,7 @@ Or see [install instructions](https://mastrojs.github.io/guide/cli-install/#setu
 
 To make sure you're on the latest Mastro version:
 
-    deno update mastro --latest
+    deno update @mastrojs/mastro --latest
 
 ## Next steps
 
