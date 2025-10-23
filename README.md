@@ -7,18 +7,22 @@ This is a basic TypeScript template for [Mastro](https://mastrojs.github.io) whe
 
     deno task start
 
-Or see [install instructions](https://mastrojs.github.io/guide/cli-install/#setup-local-development-server).
+and open <http://localhost:8000> in your browser, or see [install instructions](https://mastrojs.github.io/guide/cli-install/#setup-local-development-server).
+
+To generate the whole static site (this will create a `generated` folder):
+
+    deno task generate
+
+## Next steps
+
+To see how Mastro works, [follow the guide](https://mastrojs.github.io/guide/server-side-components-and-routing/).
 
 To make sure you're on the latest Mastro version:
 
     deno update @mastrojs/mastro --latest
 
-## Next steps
-
-To see how the Mastro web framework works, [follow the guide](https://mastrojs.github.io/guide/server-side-components-and-routing/).
-
 
 ## Deploy to production
 
-- [Deploy static site via CI/CD](https://mastrojs.github.io/guide/cli-deploy-production/#deploy-static-site-with-ci%2Fcd)
-- [Deploy server](https://mastrojs.github.io/guide/cli-deploy-production/#deploy-server-to-production)
+- [Deploy static site](https://mastrojs.github.io/guide/deploy/#deploy-static-site-with-ci%2Fcd)
+- [Deploy server](https://mastrojs.github.io/guide/deploy/#deploy-server-to-production)
