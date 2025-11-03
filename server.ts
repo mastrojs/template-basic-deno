@@ -1,3 +1,3 @@
-import server from "@mastrojs/mastro/server";
+import mastro from "@mastrojs/mastro/server";
 
-Deno.serve(server.fetch);
+Deno.serve(mastro.fetch);
